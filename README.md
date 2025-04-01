@@ -58,3 +58,14 @@ Open `http://127.0.0.1:5000/` in your browser to start using the chatbot.
 ## 💡 Contributing
 Feel free to submit pull requests or report issues to improve the project!
 
+## Screenshorts
+1. Home Page
+<img width="960" alt="image" src="https://github.com/mhdasif123/AI-Dubai-Travel-Planner-Chatbot/blob/main/Screenshorts/1.png">
+2. Chatbot
+<img width="960" alt="image" src="https://github.com/mhdasif123/AI-Dubai-Travel-Planner-Chatbot/blob/main/Screenshorts/2.png">
+<img width="960" alt="image" src="https://github.com/mhdasif123/AI-Dubai-Travel-Planner-Chatbot/blob/main/Screenshorts/3.png">
+<img width="960" alt="image" src="https://github.com/mhdasif123/AI-Dubai-Travel-Planner-Chatbot/blob/main/Screenshorts/4.png">
+<img width="960" alt="image" src="https://github.com/mhdasif123/AI-Dubai-Travel-Planner-Chatbot/blob/main/Screenshorts/5.png">
+
+
+
